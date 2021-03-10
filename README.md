@@ -14,4 +14,14 @@ how to:
 
 4.Verify your account.
 
+5.When done go to the link.
+
+6.Click get your benefit.
+
+7.follow the instructions there.
+
+8.enjoy with the access pro you want to use (connect your email on github with the application or pack you want to use). 
+
+9.HOW TO:
+  Get access by connecting your GitHub account on the application you want to use.
 
