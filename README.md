@@ -5,6 +5,7 @@ Learn to ship software like a pro. There's no substitute for hands-on experience
 **(expected to have an email account from each university)**
 add an email from the university,
 how to:
+
 1.Click the arrow in the right corner of the icon.
 
 2.Then click Settings and go to Email.
